@@ -1,7 +1,7 @@
 # Final Submission for 2021 LGE Security Specialist
 ##                Team 5: 5verflow
 
-- (Final) artifacts.zip
+- `(Final) artifacts.zip`
   - `[Team5_Phase1] SW`\
     - `Generate_Cert`
     - `sfid-client-master\`
@@ -27,7 +27,7 @@
     - `[Team5_Phase2]team6_sequence.mdj`
   
 
-- (Phase1) artifacts.zip 
+- `(Phase1) artifacts.zip` 
   - `Generate_Cert\`
   - `sfid-client-master\`
   - `sfid-server-main\`
