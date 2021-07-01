@@ -34,7 +34,7 @@
 
 password for artifacts.zip:
 ```
-  lgsecure
+lgsecure
 ```  
 
 *** 
