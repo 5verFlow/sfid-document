@@ -21,7 +21,7 @@
   - Generate_Cert\
   - sfid-client-master\
   - sfid-server-main\
-  - 05. Software Architecture Design.docx
+  - '05. Software Architecture Design.docx'
   - Developer Guide.docx
   - Phase 1. Presentation.pptx
   - Project Asset List.docx
