@@ -20,6 +20,8 @@
     - `Test Cases.xlsx & pdf`
     - `User requirements.docx & pdf`
     - `Vulnerability Attack Report.docx & pdf`
+    - `Phase 2 - Presentation.pptx & pdf`
+    - `Final Report.docx & pdf`
   - `Supplements`\
     - `[Team5_Phase1]DFD.tm7`
     - `[Team5_Phase2]hydra_result.txt`
