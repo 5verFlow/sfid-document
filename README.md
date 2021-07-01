@@ -32,7 +32,8 @@
   - Test Cases.xlsx
   - User requirements.docx
 
-password for artifacts.zip:
+
+- password for artifacts.zip:
 ```
 lgsecure
 ```  
