@@ -2,6 +2,24 @@
 
 
 - (Final) artifacts.zip
+  - Phase2 \
+  - Phase1 \
+    - Generate_Cert\
+    - sfid-client-master\
+    - sfid-server-main\
+    - 05. Software Architecture Design.docx
+    - Developer Guide.docx
+    - Phase 1. Presentation.pptx
+    - Project Asset List.docx
+    - Project Requirements.docx
+    - Security Requirements.xlsx
+    - Software Requirement Specification.docx
+    - Team 5 Project Planning .xlsx
+    - Test Cases.xlsx
+    - User requirements.docx
+
+
+- (Phase1) artifacts.zip 
   - Generate_Cert\
   - sfid-client-master\
   - sfid-server-main\
@@ -15,31 +33,3 @@
   - Team 5 Project Planning .xlsx
   - Test Cases.xlsx
   - User requirements.docx
-
-
-- artifacts.zip 
-  - Generate_Cert\
-  - sfid-client-master\
-  - sfid-server-main\
-  - 05. Software Architecture Design.docx
-  - Developer Guide.docx
-  - Phase 1. Presentation.pptx
-  - Project Asset List.docx
-  - Project Requirements.docx
-  - Security Requirements.xlsx
-  - Software Requirement Specification.docx
-  - Team 5 Project Planning .xlsx
-  - Test Cases.xlsx
-  - User requirements.docx
-
-
-- password for artifacts.zip:
-```
-lgsecure
-```  
-
-*** 
-artifact zip is re-uploaded since former upload has an error
-(several files were 0 byte)
-no revision on any material (just correct file errors)
-apologize for your inconvenience
