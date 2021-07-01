@@ -1,7 +1,7 @@
 # sfid-document
 
 
-- (Final)artifacts.zip
+- (Final) artifacts.zip
   - Generate_Cert\
   - sfid-client-master\
   - sfid-server-main\
@@ -32,8 +32,8 @@
   - Test Cases.xlsx
   - User requirements.docx
 
-```
 password for artifacts.zip:
+```
   lgsecure
 ```  
 
