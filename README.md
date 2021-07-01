@@ -2,9 +2,9 @@
 
 
 - (Final) artifacts.zip
-  - Phase2 \
-    - f
-  - Phase1 \
+  - `(Phase2) artifacts`\
+    - `TBD`
+  - `(Phase1) artifacts`\
     - `Generate_Cert\`
     - `sfid-client-master\`
     - `sfid-server-main\`
