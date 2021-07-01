@@ -1,5 +1,5 @@
-# sfid-document
-
+# Final Submission for 2021 LGE Security Specialist
+## Team 5 ~ 5verflow
 
 - (Final) artifacts.zip
   - `[Team5_Phase1] SW`\
@@ -7,19 +7,19 @@
     - `sfid-client-master\`
     - `sfid-server-main\`
   - `Documents`\
-    - `Attack Scanario.xlsx`
-    - `Code Review Report (Phase 2).xlsx`
-    - `Developer Guide.docx`
-    - `Phase 1. Presentation.pptx`
-    - `Project Asset List.docx`
-    - `Security Requirements.xlsx`
-    - `Sequence Analysis of server and client.pptx`
-    - `Software Architecture Design.docx`
-    - `Static Analysis.xlsx`
-    - `Team 5 Project Planning .xlsx`
-    - `Test Cases.xlsx`
-    - `User requirements.docx`
-    - `Vulnerability Attack Report.docx`
+    - `Attack Scanario.xlsx & pdf`
+    - `Code Review Report (Phase 2).xlsx & pdf`
+    - `Developer Guide.docx & pdf`
+    - `Phase 1. Presentation.pptx & pdf`
+    - `Project Asset List.docx & pdf`
+    - `Security Requirements.xlsx & pdf`
+    - `Sequence Analysis of server and client.pptx & pdf`
+    - `Software Architecture Design.docx & pdf`
+    - `Static Analysis.xlsx & pdf`
+    - `Team 5 Project Planning.xlsx & pdf`
+    - `Test Cases.xlsx & pdf`
+    - `User requirements.docx & pdf`
+    - `Vulnerability Attack Report.docx & pdf`
   - `Supplements`\
     - `[Team5_Phase1]DFD.tm7`
     - `[Team5_Phase2]hydra_result.txt`
