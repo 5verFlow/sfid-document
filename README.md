@@ -50,6 +50,9 @@
     - `[Team5_Phase2]LgFaceRecDemoTCP_Jetson_NanoV2_modified_binary`
     - `[Team5_Phase2]team6_sequence.mdj`
 
+---
+Files below are old version artifacts submitted for Phase 1
+
 - `(Phase1) artifacts.zip` 
   - `Generate_Cert\`
   - `sfid-client-master\`
