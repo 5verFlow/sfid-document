@@ -34,3 +34,10 @@
   - `Team 5 Project Planning .xlsx`
   - `Test Cases.xlsx`
   - `User requirements.docx`
+
+
+password for (Phase1) artifacts.zip:
+```
+lgsecure
+```
+
