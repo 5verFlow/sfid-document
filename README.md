@@ -1,5 +1,5 @@
 # Final Submission for 2021 LGE Security Specialist
-## Team 5 ~ 5verflow
+##                Team 5: 5verflow
 
 - (Final) artifacts.zip
   - `[Team5_Phase1] SW`\
