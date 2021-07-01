@@ -20,7 +20,7 @@
     - `Test Cases.xlsx`
     - `User requirements.docx`
     - `Vulnerability Attack Report.docx`
-- `Supplements`\
+  - `Supplements`\
     - `[Team5_Phase1]DFD.tm7`
     - `[Team5_Phase2]hydra_result.txt`
     - `[Team5_Phase2]LgFaceRecDemoTCP_Jetson_NanoV2_modified_binary`
