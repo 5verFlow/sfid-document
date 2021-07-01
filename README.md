@@ -1,5 +1,5 @@
-# Final Submission for 2021 LGE Security Specialist
-##                Team 5: 5verflow
+# Team 5: 5verflow
+## Final Submission for 2021 LGE Security Specialist
 
 - `(Final) Report and Presentation.zip`
   - `Phase 2 - Presentation.pptx`
@@ -51,7 +51,8 @@
     - `[Team5_Phase2]team6_sequence.mdj`
 
 ---
-Files below are old version artifacts submitted for Phase 1
+## Phase 1 Submission for 2021 LGE Security Specialist
+(Files below are old version artifacts submitted for Phase 1)
 
 - `(Phase1) artifacts.zip` 
   - `Generate_Cert\`
