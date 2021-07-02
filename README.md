@@ -28,6 +28,7 @@
     - `Test Cases.pdf`
     - `User requirements.pdf`
     - `Vulnerability Attack Report.pdf`
+    - `Team 5 Threat Modeling - PnG.pdf`
   - `Documents - SW Copy`\
     - `Attack Scanario.xlsx`
     - `Code Review Report (Phase 2).xlsx`
@@ -44,6 +45,7 @@
     - `Test Cases.xlsx`
     - `User requirements.docx`
     - `Vulnerability Attack Report.docx`
+    - `Team 5 Threat Modeling - PnG.docx`
   - `Supplements`\
     - `[Team5_Phase1]DFD.tm7`
     - `[Team5_Phase2]hydra_result.txt`
