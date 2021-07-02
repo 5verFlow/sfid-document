@@ -4,7 +4,7 @@
 - `(Final) Report and Presentation.zip`
   - `Phase 2 - Presentation.pptx`
   - `Phase 2 - Presentation.pdf`
-  - `Final Report.pptx`
+  - `Final Report.docx`
   - `Final Report.pdf`
 
 - `(Final) artifacts.zip`
